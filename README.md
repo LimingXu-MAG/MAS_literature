@@ -10,3 +10,4 @@
 9. Lesser, V.R. and Corkill, D.G., 1983. **The distributed vehicle monitoring testbed: A tool for investigating distributed problem solving networks**. *AI magazine*, 4(3), pp.15-15. [[PDF]](https://jmvidal.cse.sc.edu/library/conway83a.pdf)
 10. Jennings, N.R. and Wooldridge, M., 1998. **Applications of intelligent agents**. In *Agent technology* (pp. 3-28). Springer, Berlin, Heidelberg. [[PDF]](http://marek.piasecki.staff.iiar.pwr.wroc.pl/dydaktyka/isa/agent_technology/agt-technology.pdf)
 11. Parunak, H.V.D., 1999. **Industrial and practical applications of DAI**. *Multiagent systems: a modern approach to distributed artificial intelligence*, pp.337-421. [[PDF]](http://the-mas-book.info/MATERIAL_MAS_1st_edition/MAS_1st_EDITION_chapter09.pdf)
+12. Brooks, R.A., 1991. **Intelligence without representation**. *Artificial intelligence*, 47(1-3), pp.139-159. [[PDF]](https://www.di.fc.ul.pt/~pub/Vart/VA-FilaIndiana/ficheiros/IntRep.pdf)
