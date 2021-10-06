@@ -12,5 +12,5 @@
 11. Parunak, H.V.D., 1999. **Industrial and practical applications of DAI**. *Multiagent systems: a modern approach to distributed artificial intelligence*, pp.337-421. [[PDF]](http://the-mas-book.info/MATERIAL_MAS_1st_edition/MAS_1st_EDITION_chapter09.pdf)
 12. Brooks, R.A., 1991. **Intelligence without representation**. *Artificial intelligence*, 47(1-3), pp.139-159. [[PDF]](https://www.di.fc.ul.pt/~pub/Vart/VA-FilaIndiana/ficheiros/IntRep.pdf)
 13. Hewitt, C., 1977. **Viewing control structures as patterns of passing messages**. *Artificial intelligence*, 8(3), pp.323-364. [[PDF]](https://www.sciencedirect.com/science/article/pii/0004370277900339)
-14. Maes, P., 1995. **Agents that reduce work and information overload**. In *Readings in human–computer interaction* (pp. 811-821). Morgan Kaufmann. [[PDF]](https://dl.acm.org/doi/10.1145/176789.176792)
+14. Maes, P., 1995. **Agents that reduce work and information overload**. In *Readings in human–computer interaction* (pp. 811-821). Morgan Kaufmann. [[PDF]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.2096&rep=rep1&type=pdf)
 15. Maes, P., Guttman, R.H. and Moukas, A.G., 1999. **Agents that buy and sell**. *Communications of the ACM*, 42(3), pp.81-ff. [[PDF]](http://alumni.media.mit.edu/~guttman/research/pubs/cacm98.pdf)
