@@ -16,4 +16,11 @@
 15. Maes, P., Guttman, R.H. and Moukas, A.G., 1999. **Agents that buy and sell**. *Communications of the ACM*, 42(3), pp.81-ff. [[PDF]](http://alumni.media.mit.edu/~guttman/research/pubs/cacm98.pdf)
 16. McCarthy, J., 1960. **Programs with common sense** (pp. 300-307). *RLE and MIT computation center*. [[PDF]](https://www.cs.rit.edu/~rlaz/is2014/files/McCarthyProgramsWithCommonSense.pdf)
 17. Turing, A.M., 2009. **Computing machinery and intelligence**. In *Parsing the turing test* (pp. 23-65). Springer, Dordrecht. [[PDF]](http://www.cse.chalmers.se/~aikmitr/papers/Turing.pdf#page=442)
-18. Shoham, Y., Powers, R. and Grenager, T., 2007. **If multi-agent learning is the answer, what is the question?**. *Artificial intelligence*, 171(7), pp.365-377. [[PDF]](http://www.ppgia.pucpr.br/~fabricio/ftp/Aulas/Mestrado/AS/Artigos-Apresentacoes/MultiAgent%20Learning/10.1.1.70.8898.pdf)
+
+
+## Multi-Agent Reforcement Learning
+1.  Shoham, Y., Powers, R. and Grenager, T., 2007. **If multi-agent learning is the answer, what is the question?**. *Artificial intelligence*, 171(7), pp.365-377. [[PDF]](http://www.ppgia.pucpr.br/~fabricio/ftp/Aulas/Mestrado/AS/Artigos-Apresentacoes/MultiAgent%20Learning/10.1.1.70.8898.pdf)
+2.  Vohra, R.V. and Wellman, M.P., 2007. **Foundations of multi-agent learning: Introduction to the special issue**. [[PDF]](https://core.ac.uk/download/pdf/82052504.pdf)
+3.  Hernandez-Leal, P., Kartal, B. and Taylor, M.E., 2018. **Is multiagent deep reinforcement learning the answer or the question? A brief survey**. *learning*, 21, p.22.  [[PDF]](https://www.borealisai.com/en/blog/multiagent-reinforcement-learning-answer-or-question-brief-survey/)
+4.  Stone, P. and Veloso, M., 2000. **Multiagent systems: A survey from a machine learning perspective**. *Autonomous Robots*, 8(3), pp.345-383.  [[PDF]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.8721&rep=rep1&type=pdf)
+
