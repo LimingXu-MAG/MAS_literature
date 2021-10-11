@@ -24,4 +24,5 @@
 3.  Hernandez-Leal, P., Kartal, B. and Taylor, M.E., 2018. **Is multiagent deep reinforcement learning the answer or the question? A brief survey**. *learning*, 21, p.22.  [[PDF]](https://www.borealisai.com/en/blog/multiagent-reinforcement-learning-answer-or-question-brief-survey/)
 4.  Stone, P. and Veloso, M., 2000. **Multiagent systems: A survey from a machine learning perspective**. *Autonomous Robots*, 8(3), pp.345-383.  [[PDF]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.8721&rep=rep1&type=pdf)
 5.  Arulkumaran, K., Deisenroth, M.P., Brundage, M. and Bharath, A.A., 2017. **A brief survey of deep reinforcement learning**. *arXiv preprint* arXiv:1708.05866.[[PDF]](https://arxiv.org/pdf/1708.05866.pdf)
+6.  Panait, L. and Luke, S., 2005. **Cooperative multi-agent learning: The state of the art**. *Autonomous agents and multi-agent systems*, 11(3), pp.387-434. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.6671&rep=rep1&type=pdf)
 
