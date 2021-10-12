@@ -34,6 +34,6 @@
 3. Lange, S., Riedmiller, M. and Voigtländer, A., 2012, June. **Autonomous reinforcement learning on raw visual input data in a real world application**. In *The 2012 international joint conference on neural networks (IJCNN)* (pp. 1-8). IEEE. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6252823)
 4. Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.A., Veness, J., Bellemare, M.G., Graves, A., Riedmiller, M., Fidjeland, A.K., Ostrovski, G. and Petersen, S., 2015. **Human-level control through deep reinforcement learning**. *nature*, 518(7540), pp.529-533. [[PDF]](https://www.nature.com/articles/nature14236.pdf)
 
-## Reinforcement Learning
+## Tutorials
 1. Policy Gradient Algorithms: https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 
