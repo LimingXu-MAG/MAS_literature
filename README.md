@@ -25,4 +25,12 @@
 4.  Stone, P. and Veloso, M., 2000. **Multiagent systems: A survey from a machine learning perspective**. *Autonomous Robots*, 8(3), pp.345-383.  [[PDF]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.8721&rep=rep1&type=pdf)
 5.  Arulkumaran, K., Deisenroth, M.P., Brundage, M. and Bharath, A.A., 2017. **A brief survey of deep reinforcement learning**. *arXiv preprint* arXiv:1708.05866.[[PDF]](https://arxiv.org/pdf/1708.05866.pdf)
 6.  Panait, L. and Luke, S., 2005. **Cooperative multi-agent learning: The state of the art**. *Autonomous agents and multi-agent systems*, 11(3), pp.387-434. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.6671&rep=rep1&type=pdf)
+7.  Tuyls, K. and Weiss, G., 2012. **Multiagent learning: Basics, challenges, and prospects**. *AI Magazine*, 33(3), pp.41-41. [[PDF]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.983.2862&rep=rep1&type=pdf)
+8.  Sandholm, T.W. and Lesser, V.R., 1995, August. **Coalition formation among bounded rational agents**. In *IJCAI* (1) (pp. 662-671). [[PDF]](http://www.cs.cmu.edu/~sandholm/cs15-892F11/sand95.pdf)
+
+## Deep Reinforcement Learning
+1. Li, Y., 2018. **Deep reinforcement learning**. arXiv preprint arXiv:1810.06339. [[PDF]](https://arxiv.org/pdf/1810.06339.pdf)
+2. Bellemare, M.G., Naddaf, Y., Veness, J. and Bowling, M., 2013. **The arcade learning environment: An evaluation platform for general agents**. *Journal of Artificial Intelligence Research*, 47, pp.253-279. [[PDF]](https://www.jair.org/index.php/jair/article/view/10819/25823)
+3. Lange, S., Riedmiller, M. and Voigtländer, A., 2012, June. **Autonomous reinforcement learning on raw visual input data in a real world application**. In *The 2012 international joint conference on neural networks (IJCNN)* (pp. 1-8). IEEE. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6252823)
+
 
