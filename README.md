@@ -27,13 +27,27 @@
 6.  Panait, L. and Luke, S., 2005. **Cooperative multi-agent learning: The state of the art**. *Autonomous agents and multi-agent systems*, 11(3), pp.387-434. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.6671&rep=rep1&type=pdf)
 7.  Tuyls, K. and Weiss, G., 2012. **Multiagent learning: Basics, challenges, and prospects**. *AI Magazine*, 33(3), pp.41-41. [[PDF]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.983.2862&rep=rep1&type=pdf)
 8.  Sandholm, T.W. and Lesser, V.R., 1995, August. **Coalition formation among bounded rational agents**. In *IJCAI* (1) (pp. 662-671). [[PDF]](http://www.cs.cmu.edu/~sandholm/cs15-892F11/sand95.pdf)
+9. Busoniu, L., Babuska, R. and De Schutter, B., 2008. **A comprehensive survey of multiagent reinforcement learning**. IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews), 38(2), pp.156-172. [[PDF]](http://www.busoniu.net/files/papers/smcc08.pdf)
+10. Lin, L.J., 1992. **Self-improving reactive agents based on reinforcement learning, planning and teaching**. *Machine learning*, 8(3-4), pp.293-321. [[PDF]](https://link.springer.com/content/pdf/10.1007/BF00992699.pdf)
+11. Foerster, J.N., Assael, Y.M., De Freitas, N. and Whiteson, S., 2016. **Learning to communicate with deep multi-agent reinforcement learning**. *arXiv preprint* arXiv:1605.06676. [[PDF]](http://www.datascienceassn.org/sites/default/files/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
+12. Sukhbaatar, S. and Fergus, R., 2016. **Learning multiagent communication with backpropagation**. *Advances in neural information processing systems*, 29, pp.2244-2252. [[PDF]](https://proceedings.neurips.cc/paper/2016/file/55b1927fdafef39c48e5b73b5d61ea60-Paper.pdf)
+13. Riedmiller, M., Gabel, T., Hafner, R. and Lange, S., 2009. **Reinforcement learning for robot soccer**. *Autonomous Robots*, 27(1), pp.55-73. [[PDF]](https://ml.informatik.uni-freiburg.de/former/_media/publications/gr_09.pdf)
 
 ## Deep Reinforcement Learning
 1. Li, Y., 2018. **Deep reinforcement learning**. arXiv preprint arXiv:1810.06339. [[PDF]](https://arxiv.org/pdf/1810.06339.pdf)
 2. Bellemare, M.G., Naddaf, Y., Veness, J. and Bowling, M., 2013. **The arcade learning environment: An evaluation platform for general agents**. *Journal of Artificial Intelligence Research*, 47, pp.253-279. [[PDF]](https://www.jair.org/index.php/jair/article/view/10819/25823)
 3. Lange, S., Riedmiller, M. and Voigtländer, A., 2012, June. **Autonomous reinforcement learning on raw visual input data in a real world application**. In *The 2012 international joint conference on neural networks (IJCNN)* (pp. 1-8). IEEE. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6252823)
 4. Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.A., Veness, J., Bellemare, M.G., Graves, A., Riedmiller, M., Fidjeland, A.K., Ostrovski, G. and Petersen, S., 2015. **Human-level control through deep reinforcement learning**. *nature*, 518(7540), pp.529-533. [[PDF]](https://www.nature.com/articles/nature14236.pdf)
+5. Gu, S., Lillicrap, T., Sutskever, I. and Levine, S., 2016, June. **Continuous deep q-learning with model-based acceleration**. In *International conference on machine learning* (pp. 2829-2838). PMLR. [[PDF]](https://utstat.toronto.edu/droy/icml16/publish/gu16.pdf)
+6. Shahriari, B., Swersky, K., Wang, Z., Adams, R.P. and De Freitas, N., 2015. **Taking the human out of the loop: A review of Bayesian optimization**. *Proceedings of the IEEE*, 104(1), pp.148-175. [[PDF]](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf)
+
+
+## Miscellaneous 
+1. Van der Maaten, L. and Hinton, G., 2008. **Visualizing data using t-SNE**. *Journal of machine learning research*, 9(11). [[PDF]](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf?fbclid=IwA)
 
 ## Tutorials
-1. Policy Gradient Algorithms: https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
+1. Reinforcement Learning Tutorials, Examples, Projects, and Courses: https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
+2. Policy Gradient Algorithms: https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
+
+
 
