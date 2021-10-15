@@ -32,6 +32,7 @@
 11. Foerster, J.N., Assael, Y.M., De Freitas, N. and Whiteson, S., 2016. **Learning to communicate with deep multi-agent reinforcement learning**. *arXiv preprint* arXiv:1605.06676. [[PDF]](http://www.datascienceassn.org/sites/default/files/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
 12. Sukhbaatar, S. and Fergus, R., 2016. **Learning multiagent communication with backpropagation**. *Advances in neural information processing systems*, 29, pp.2244-2252. [[PDF]](https://proceedings.neurips.cc/paper/2016/file/55b1927fdafef39c48e5b73b5d61ea60-Paper.pdf)
 13. Riedmiller, M., Gabel, T., Hafner, R. and Lange, S., 2009. **Reinforcement learning for robot soccer**. *Autonomous Robots*, 27(1), pp.55-73. [[PDF]](https://ml.informatik.uni-freiburg.de/former/_media/publications/gr_09.pdf)
+14. Zhang, K., Yang, Z. and Başar, T., 2021. **Multi-agent reinforcement learning: A selective overview of theories and algorithms**. *Handbook of Reinforcement Learning and Control*, pp.321-384. [[PDF]](https://arxiv.org/pdf/1911.10635.pdf)
 
 ## Deep Reinforcement Learning
 1. Li, Y., 2018. **Deep reinforcement learning**. arXiv preprint arXiv:1810.06339. [[PDF]](https://arxiv.org/pdf/1810.06339.pdf)
