@@ -40,7 +40,6 @@
 3. Lange, S., Riedmiller, M. and Voigtländer, A., 2012, June. **Autonomous reinforcement learning on raw visual input data in a real world application**. In *The 2012 international joint conference on neural networks (IJCNN)* (pp. 1-8). IEEE. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6252823)
 4. Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.A., Veness, J., Bellemare, M.G., Graves, A., Riedmiller, M., Fidjeland, A.K., Ostrovski, G. and Petersen, S., 2015. **Human-level control through deep reinforcement learning**. *nature*, 518(7540), pp.529-533. [[PDF]](https://www.nature.com/articles/nature14236.pdf)
 5. Gu, S., Lillicrap, T., Sutskever, I. and Levine, S., 2016, June. **Continuous deep q-learning with model-based acceleration**. In *International conference on machine learning* (pp. 2829-2838). PMLR. [[PDF]](https://utstat.toronto.edu/droy/icml16/publish/gu16.pdf)
-6. Shahriari, B., Swersky, K., Wang, Z., Adams, R.P. and De Freitas, N., 2015. **Taking the human out of the loop: A review of Bayesian optimization**. *Proceedings of the IEEE*, 104(1), pp.148-175. [[PDF]](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf)
 
 
 ## Miscellaneous 
