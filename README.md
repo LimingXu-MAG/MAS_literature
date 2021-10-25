@@ -48,6 +48,8 @@
 3. Halevy, A., Norvig, P. and Pereira, F., 2009. The unreasonable effectiveness of data. IEEE Intelligent Systems, 24(2), pp.8-12. [[PDF]](https://accelerationwatch.com/downloads/HalevyNorvigPereiraUnreasonableEffectivenessofDataIS2009.pdf)
 4. Shahriari, B., Swersky, K., Wang, Z., Adams, R.P. and De Freitas, N., 2015. Taking the human out of the loop: A review of Bayesian optimization. Proceedings of the IEEE, 104(1), pp.148-175. [[PDF]](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf)
 5. Smith, L.N., 2018. A disciplined approach to neural network hyper-parameters: Part 1--learning rate, batch size, momentum, and weight decay. arXiv preprint arXiv:1803.09820. [[PDF]](https://arxiv.org/pdf/1803.09820.pdf)
+6. Glorot, X. and Bengio, Y., 2010, March. Understanding the difficulty of training deep feedforward neural networks. In Proceedings of the thirteenth international conference on artificial intelligence and statistics (pp. 249-256). JMLR Workshop and Conference Proceedings. [[PDF]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+7. Gal, Y. and Ghahramani, Z., 2016, June. Dropout as a bayesian approximation: Representing model uncertainty in deep learning. In international conference on machine learning (pp. 1050-1059). PMLR. [[PDF]](http://proceedings.mlr.press/v48/gal16.pdf)
 
 ## Tutorials
 1. Reinforcement Learning Tutorials, Examples, Projects, and Courses: https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
