@@ -47,6 +47,7 @@
 2. Sun, C., Shrivastava, A., Singh, S. and Gupta, A., 2017. Revisiting unreasonable effectiveness of data in deep learning era. In Proceedings of the IEEE international conference on computer vision (pp. 843-852). [[PDF]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Sun_Revisiting_Unreasonable_Effectiveness_ICCV_2017_paper.pdf)
 3. Halevy, A., Norvig, P. and Pereira, F., 2009. The unreasonable effectiveness of data. IEEE Intelligent Systems, 24(2), pp.8-12. [[PDF]](https://accelerationwatch.com/downloads/HalevyNorvigPereiraUnreasonableEffectivenessofDataIS2009.pdf)
 4. Shahriari, B., Swersky, K., Wang, Z., Adams, R.P. and De Freitas, N., 2015. Taking the human out of the loop: A review of Bayesian optimization. Proceedings of the IEEE, 104(1), pp.148-175. [[PDF]](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf)
+5. Smith, L.N., 2018. A disciplined approach to neural network hyper-parameters: Part 1--learning rate, batch size, momentum, and weight decay. arXiv preprint arXiv:1803.09820. [[PDF]](https://arxiv.org/pdf/1803.09820.pdf)
 
 ## Tutorials
 1. Reinforcement Learning Tutorials, Examples, Projects, and Courses: https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
